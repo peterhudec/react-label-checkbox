@@ -13,6 +13,13 @@ Both components are accessible. The checkboxe's `aria-checked`
 attribute reflects the status of the checkbox, and the label automatically
 applies the `aria-labelledby` to the linked checkbox.
 
-To see the demo launch the development server with `npm start`.
+To see the demo launch the development server with:
+
+```
+$ git clone https://github.com/peterhudec/react-label-checkbox.git
+$ cd react-label-checkbox
+$ npm install
+$ npm start
+```
 
 No tests, sorry.
